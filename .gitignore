@@ -1,0 +1,23 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.conda/
+venv/
+env/
+
+/exported/
+
+# Editor settings
+.vscode/
+
+# Excel files (ถ้าไม่ต้องการให้ Git ติดตาม)
+*.xlsx
+*.xls
+
+# ระบบปฏิบัติการ
+.DS_Store
+Thumbs.db
